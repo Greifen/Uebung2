@@ -1,2 +1,2 @@
-# The ich das Readme nun direkt als erstes in github?
-einfach beim Anlegen des lokalen repository oben häckchen.
+# package Annotation
+2 [Annotations & Processors in Programming Java] https://www.youtube.com/watch?v=XOvZcJKd6Vk 
